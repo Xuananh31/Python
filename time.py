@@ -1,10 +1,6 @@
-a = int(input())
-b = int(input())
-c = int(input())
+import datetime
 
-if a==b==c:
-    print("Equilateral triangle",end=" ")
-elif a==b==c:
-    print("Isosceles triangle",end=" ")
-else:
-    print("Scalene triangle",end=" ")
+x = datetime.datetime.now()
+
+print(x.year)
+print(x.strftime("%T"))

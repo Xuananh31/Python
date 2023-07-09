@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ae0915c-a2ee-43ba-adf9-92136931ff07" name="Changes" comment="" />
+    <list default="true" id="3ae0915c-a2ee-43ba-adf9-92136931ff07" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phuongtrinhbacnhat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/f.py" beforeDir="false" afterPath="$PROJECT_DIR$/f.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/time.py" beforeDir="false" afterPath="$PROJECT_DIR$/time.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +21,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/a.py" root0="FORCE_HIGHLIGHTING" />
@@ -148,10 +156,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.f" />
+        <item itemvalue="Python.Phuongtrinhbacnhat" />
         <item itemvalue="Python.time" />
         <item itemvalue="Python.a" />
         <item itemvalue="Python.b" />
-        <item itemvalue="Python.Phuongtrinhbacnhat" />
       </list>
     </recent_temporary>
   </component>
